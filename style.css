@@ -66,6 +66,10 @@ body {
     border-radius: 8px;
 }
 
+.amber-image img {
+    max-width: 100%;
+    float: right;
+}
   
 h2 {
     font-size: 28px;
