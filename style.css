@@ -66,6 +66,9 @@ body {
     border-radius: 8px;
 }
 
+.amber {
+float: right; 
+}
   
 h2 {
     font-size: 28px;
