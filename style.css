@@ -337,11 +337,6 @@ p {
      padding-top: 150px; padding-right: 200px; 
  }
 
-@media (max-width: 700px) {
-  .right3 {
-    display: flex;
-  }
-
   .right1 {
     width: 50%;
     height: 300px;
