@@ -235,12 +235,12 @@ p {
     align-items: center;
     justify-content: center;
    /* background-color: #1e1f26;*/
-   background-color: #e0e0e0;
+   background-color: #E5E4E2;
   }
  .container {
     width: 90%;
     max-width: 1000px;
-    margin: 50px auto;
+    margin: 40px auto;
     display: flex;
     align-items: center;
     justify-content: center;
