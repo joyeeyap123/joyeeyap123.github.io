@@ -761,7 +761,7 @@ nav{
     color: #FFBF00;
 }
 .content{
-    position: absolute;
+    display: flex;
     top: 35%;
     left: 8%;
 }
