@@ -332,7 +332,8 @@ p {
 
 
   .right3 {
-    float: right;
+    display: flex;
+      float: right;
     text-align: right;
     padding-top: 150px; padding-right: 300px; 
   }
