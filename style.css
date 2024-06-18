@@ -753,7 +753,7 @@ nav{
 .content{
     position: absolute;
     top: 35%;
-    left: 8%;
+    left: 80%;
 }
 .content h1{
     color: white;
@@ -762,7 +762,7 @@ nav{
     line-height: 90px;
     text-transform: inherit;
     width: 70%;
-    float: left;
+    float: right;
     
 }
 .content h1 span{
