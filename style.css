@@ -320,7 +320,7 @@ p {
   .left1 {
     width: 60%;
     height: 400px;
-    background: url('Munchables.png') no-repeat;
+    background: url('ai.jpg') no-repeat;
     background-size: contain;
     background-position: left; /* Center the image */
     border-radius: 10px;
