@@ -459,7 +459,7 @@ p {
 
 }
 .top-nav a:hover{
-    color: #fd4766;
+    color: #FFBF00;
     text-decoration: none;
 }
 
@@ -536,7 +536,7 @@ p {
 }
 
 .logo a:hover{
-    color: #fd4766;
+    color: #FFBF00;
     text-decoration: none;
 }
 
@@ -759,13 +759,13 @@ nav{
     font-weight: 600;
     transition: all .4s ease-in-out;
     background-size: 152% 100%;
-    background: #fd4766;
-    border: 2px solid #fd4766;
+    background: #FFBF00fd4766;
+    border: 2px solid #FFBF00;
 }
 .btn:hover{
     background: transparent;
-    border-color: #fd4766;
-    color: #fd4766;
+    border-color: #FFBF00;
+    color: #FFBF00;
 }
 .content{
     position: absolute;
