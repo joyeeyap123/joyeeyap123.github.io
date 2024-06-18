@@ -892,6 +892,7 @@ footer a{
 .amber-image {
   height: 400px;
   width: 400px;
+    display: right;
   margin: auto 0;
 }
 
