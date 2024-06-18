@@ -331,7 +331,11 @@ p {
     filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(0, 0, 0, 0.5));
     background-size: 120%;
   }
-  
+
+ .right3 {
+     float: right;
+ }
+
   .right1 {
     width: 50%;
     height: 300px;
