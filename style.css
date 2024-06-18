@@ -340,7 +340,7 @@ p {
 
 /* For screens smaller than 600px */
 @media screen and (max-width: 600px) {
-  .amber.png {
+  .right3 {
     display: none;
   }
 }
