@@ -333,7 +333,6 @@ p {
     width: 50%;
     height: 400px;
     background: url('amber.png') no-repeat;
-    background-size: contain;
     float: right; /* Center the image */
     border-radius: 10px;
     filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(0, 0, 0, 0.5));
