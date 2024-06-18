@@ -66,17 +66,7 @@ body {
     border-radius: 8px;
 }
 
-.amber {
-float: right; 
-text-align: right;
-}
 
-#socials-container {
-  display: flex;
-  justify-content: center;
-  margin-top: 1rem;
-  gap: 1rem;
-}
 
   
 h2 {
