@@ -330,10 +330,9 @@ p {
 
 
   .right3 {
-    width: 50%;
-    height: 400px;
     background: url('amber.png') no-repeat;
     float: right; /* Center the image */
+    padding-top: 150px; padding-right: 200px; 
     border-radius: 10px;
     filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(0, 0, 0, 0.5));
     background-size: 120%;
