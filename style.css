@@ -758,7 +758,7 @@ nav{
     font-weight: 600;
     transition: all .4s ease-in-out;
     background-size: 152% 100%;
-    background: #FFBF00fd4766;
+    background: #FFBF00;
     border: 2px solid #FFBF00;
 }
 .btn:hover{
