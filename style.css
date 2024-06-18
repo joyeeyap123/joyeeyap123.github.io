@@ -338,7 +338,12 @@ p {
     padding-top: 100px; padding-right: 200px; 
   }
 
-
+/* For screens smaller than 600px */
+@media screen and (max-width: 600px) {
+  .amber.png {
+    display: none;
+  }
+}
 
 
   .right1 {
