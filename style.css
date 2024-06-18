@@ -333,7 +333,8 @@ p {
   }
 
  .right3 {
-     display: flex;  justify-content: right; display:block;
+     float: right;
+     padding=top: 130px; padding-right: 175px;
  }
 
   .right1 {
