@@ -334,6 +334,7 @@ p {
 
  .right3 {
      float: right;
+     padding-top: 300px; padding-right: 300px; 
  }
 
   .right1 {
