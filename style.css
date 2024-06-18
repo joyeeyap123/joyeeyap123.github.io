@@ -610,7 +610,7 @@ p {
 .hero{
     width: 100%;
     height: 100vh;
-    background: linear-gradient(-30deg,#FDFCFB, E2D1C3, FFECD2, FCB69F, EA8D8D, #A890FE);
+    background: linear-gradient(-30deg,#4E65FF, #92EFFD, #02FABD, #00CDAC);
     animation: gradient 15s ease infinite;
     background-size: 400% 400%;
 
