@@ -783,6 +783,16 @@ footer a{
 
 
 
+To place a photo on the right side of the screen, vertically centered, you can use Flexbox or CSS Grid. Here's an example using Flexbox.
+
+.picturecontents {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end; /* Aligns items to the right horizontally */
+    align-items: center; /* Aligns items to the center vertically */
+}
+
 
 
 
