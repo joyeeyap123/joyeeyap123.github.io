@@ -783,18 +783,19 @@ footer a{
 
 
 .right3 {
-    height: 100%;
+     height: 100%;
     margin: 0;
     display: flex;
-    justify-content: flex-end; /* Aligns items to the right horizontally */
-    align-items: center; /* Aligns items to the center vertically */
+    justify-content: center;
+    align-items: center;
 }
 
 .picturecontents {
     display: flex;
-    justify-content: center; /* This line can be omitted or kept for potential inner centering */
-    align-items: center;
+    justify-content: flex-end; /* Aligns the content to the right horizontally */
+    align-items: center; /* Aligns the content to the center vertically */
     height: 100%;
+    width: 100%;
 }
 
 img {
