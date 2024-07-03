@@ -519,7 +519,7 @@ section {
 
 @media only screen and (max-width: 350px) and (min-width: 300px){
     .hero{
-        height: 200vh;
+        height: 100%;
     }
     .btn{
         font-size: 30px;
@@ -543,7 +543,7 @@ section {
 }
 @media only screen and (max-width: 459px) and (min-width: 351px){
     .hero{
-        height: 200vh;
+        height: 100%;
     }
     .btn{
         font-size: 30px;
@@ -567,7 +567,7 @@ section {
 @media only screen and (max-width: 600px) and (min-width: 460px){
 
     .hero{
-        height: 200vh;
+        height: 100%;
     }
     .content .btn{
         color: #fff;
@@ -589,7 +589,7 @@ section {
 
 @media only screen and (max-width: 962px) and (min-width: 601px){
     .hero{
-        height: 200vh;
+        height: 100%;
     }
     .content .btn{
         color: #fff;
